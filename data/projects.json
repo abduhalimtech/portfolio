@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "redder-taxi",
+    "name": "ReddeR Taxi",
+    "summary": "Real-time ride-hailing backend with WebSockets and CI/CD.",
+    "impact": ["Served 3,000+ riders and 1,000+ drivers", "Query count 45→6; p95 900ms→250ms"],
+    "tech": ["Laravel 10", "PHP 8", "MySQL", "Redis", "Laravel Reverb", "GitHub Actions", "Nginx"],
+    "links": {
+      "android": "https://play.google.com/store/apps/details?id=com.redder_taxi",
+      "ios": "https://apps.apple.com/us/app/redder-taxi/id6739749246"
+    }
+  },
+  {
+    "slug": "redder-logistics",
+    "name": "ReddeR Logistics",
+    "summary": "Logistics backend for orders, pricing, assignment, and CI/CD.",
+    "impact": ["MVP to 500+ early users", "Zero-downtime deploys via GitHub Actions"],
+    "tech": ["Laravel 10", "MySQL", "Redis", "Horizon", "GitHub Actions"],
+    "links": {
+      "android": "https://play.google.com/store/apps/details?id=uz.redderlogistic.redder",
+      "ios": "https://apps.apple.com/us/app/redder/id6504566478"
+    }
+  },
+  {
+    "slug": "uzhub",
+    "name": "UzHub",
+    "summary": "Multi-service platform backend with Filament Admin.",
+    "impact": ["MVP backend for mobile team", "Prepared multi-tenant structure"],
+    "tech": ["Laravel 10", "Filament", "Redis", "MySQL", "Nginx", "CI/CD"],
+    "links": {
+      "android": "https://play.google.com/store/apps/details?id=demo.uzhub",
+      "ios": "https://apps.apple.com/app/id0000000002"
+    }
+  }
+]
