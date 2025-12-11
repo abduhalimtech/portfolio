@@ -3,7 +3,7 @@
     "slug": "redder-taxi",
     "name": "ReddeR Taxi",
     "summary": "Real-time ride-hailing backend with WebSockets and CI/CD.",
-    "impact": ["Served 3,000+ riders and 1,000+ drivers", "Query count 45→6; p95 900ms→250ms"],
+    "impact": ["Served 10,000+ riders and 2,000+ drivers", "Query count 45→6; p95 900ms→250ms"],
     "tech": ["Laravel 10", "PHP 8", "MySQL", "Redis", "Laravel Reverb", "GitHub Actions", "Nginx"],
     "links": {
       "android": "https://play.google.com/store/apps/details?id=com.redder_taxi",
